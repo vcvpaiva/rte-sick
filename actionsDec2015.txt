@@ -1,0 +1,27 @@
+Valeria's suggestions in Dec 2015 (message from Dec 16,2015, 11:33 am)
+
+1. we should be aim to be the UBY of Portuguese, 
+except that UBY https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/
+has bits that are not open source. 
+
+Our corpora are Bosque and DHBB; https://github.com/own-pt/bosque-UD and ???
+we should have links with DBpedia-PT or not? with Wikidata, Yago or not?
+Open Thesaurus OmegaWiki-Pt in http://www.omegawiki.org/Meta:Main_Page/pt
+We need to create links to Wikcionario-PT (this is what linked data is about)
+We need to work on a subcateogrization lexicon for PT
+
+2. we need a "mutirao" for adjectives.
+need a relatorio/report liek the ones we have in http://wnpt.brlcloud.com/wn/prototypes for adjectives,
+especially the 1000 most used adjectives in PT. 
+the problem is that adjectives are not separated into domains, like nouns and verbs.
+
+3. We need to organize the relationship between Nomlex-PT and OepnWordNet-PT.
+need to stop having floating ones. the point of linked data is to have several resources 
+connected by mappings, but independent from each other. this is not what is happenning with NomLex-PT.
+
+4. We need to decide on a KB for named entities and we need to decide on how we're going to find and recognize named entities.
+I am happy to use HeidelTime for temporal expressions, but don't know of a similar project for entities. 
+No system is perfect, HeidelTime, Freeling nothign is just right, but we need to use some work to get going.
+which work is that?
+--------------
+
