@@ -1,0 +1,15 @@
+pra mim a ideia 'e que gramatica nao 'e tao importante, qq teoria gramatica minimamente razoavel deve funcionar.
+pra eu usar o meu proprio tempo, investindo, prefiro investir  nas enhanced UDs pelos motivos citados  milhoes de vezes.
+
+pra mim o importante 'e a semantica e mais, o uso de prova automatica pra fazer inferencias. e' ai que eu quero concentrar.
+nisso e em fechar os buracos, terminar as coisas que estao abertas:
+1. completar os synsets no minimo nivel que a gente decidir, pelo menos (os 18 synsets core e os 583 basicos), 
+2. resolver a ligacao do NomLex com OpenWordNet-PT,
+3. adicionar os gentilicos de portugues a OpenWN-PT
+4. melhorar nosso lexico de verbos
+5. continuar nosso work com fenomenos temporais
+6. decidir o que fazer sobre NERs e mwes.
+7. decidir o que fazer sobre encyclopedic knowledge
+8. decidir o que fazer sobre KR representations
+9. decidir o que fazer sobre theorem provers/checkers
+10. decidir o que fazer sobre aplicacoes que "paguem" pelo nosso desenvolvimento
