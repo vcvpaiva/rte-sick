@@ -1,3 +1,5 @@
+19 oct: proposals CNPq/CAPES/FGV
+
 pra mim a ideia 'e que gramatica nao 'e tao importante, qq teoria gramatica minimamente razoavel deve funcionar.
 pra eu usar o meu proprio tempo, investindo, prefiro investir  nas enhanced UDs pelos motivos citados  milhoes de vezes.
 
@@ -13,3 +15,43 @@ nisso e em fechar os buracos, terminar as coisas que estao abertas:
 8. decidir o que fazer sobre KR representations
 9. decidir o que fazer sobre theorem provers/checkers
 10. decidir o que fazer sobre aplicacoes que "paguem" pelo nosso desenvolvimento
+---------
+proposal PROPOR 2018
+eu proponho rodar o HeidelTime no DHBB pra achar as expressoes temporais, seguindo o paper deles em
+
+@InProceedings{StroetgenEtAl2014:LREC,
+  author    = {Jannik Str\"otgen and Thomas B\"ogel and Julian Zell and Ayser Armiti and Tran Van Canh and Michael Gertz},
+  title     = {Extending HeidelTime for Temporal Expressions Referring to Historic Dates},
+  booktitle = {Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)},
+  year      = {2014},
+  month     = {May},
+  location  = {Reykjavik, Iceland},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn      = {978-2-9517408-8-4},
+  pages     = {2390--2397}
+}
+paper esta' aqui
+
+http://www.lrec-conf.org/proceedings/lrec2014/pdf/849_Paper.pdf
+
+----------------------
+need to organize and remove hashtags: Isabella Gardner was an art collector, not a garbage collector
+
+in our record of issues with Princeton Wordnet, you can find the hasthtags
+
+#PWNerror (11)
+#pwn (10)
+#pwn-error (8)
+#PWN (3)
+#PWNerro? (3)
+#pwn_bad (4)
+#bad_gloss (3)
+
+which are all (as far as I'm concerned) mistakes/errors in PWN. 
+if you navigate to 
+http://wnpt.brlcloud.com/wn/search-activities
+you should be able to see and click on these hastags and go to these problems.
+---------------------------
+elasticsearch using WN-PT following http://javaaswin.blogspot.com.br/2014/02/elasticsearch-with-wordnet.html
+could be used backwards to help found out what's missing from OWN-PT?
+-----------------------------
