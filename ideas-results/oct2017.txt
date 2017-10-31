@@ -1,6 +1,6 @@
-19 oct: proposals CNPq/CAPES/FGV
+19 oct: proposals CNPq/CAPES/FGV?
 
-pra mim a ideia 'e que gramatica nao 'e tao importante, qq teoria gramatica minimamente razoavel deve funcionar.
+1. Nao. pra mim a ideia 'e que gramatica nao 'e tao importante, qq teoria gramatica minimamente razoavel deve funcionar.
 pra eu usar o meu proprio tempo, investindo, prefiro investir  nas enhanced UDs pelos motivos citados  milhoes de vezes.
 
 pra mim o importante 'e a semantica e mais, o uso de prova automatica pra fazer inferencias. e' ai que eu quero concentrar.
@@ -16,7 +16,7 @@ nisso e em fechar os buracos, terminar as coisas que estao abertas:
 9. decidir o que fazer sobre theorem provers/checkers
 10. decidir o que fazer sobre aplicacoes que "paguem" pelo nosso desenvolvimento
 ---------
-proposal PROPOR 2018
+2. proposal PROPOR 2018
 eu proponho rodar o HeidelTime no DHBB pra achar as expressoes temporais, seguindo o paper deles em
 
 @InProceedings{StroetgenEtAl2014:LREC,
@@ -35,6 +35,7 @@ paper esta' aqui
 http://www.lrec-conf.org/proceedings/lrec2014/pdf/849_Paper.pdf
 
 ----------------------
+3. To continue with cleaning up the OpenWordnet-PT:
 need to organize and remove hashtags: Isabella Gardner was an art collector, not a garbage collector
 
 in our record of issues with Princeton Wordnet, you can find the hasthtags
@@ -51,7 +52,11 @@ which are all (as far as I'm concerned) mistakes/errors in PWN.
 if you navigate to 
 http://wnpt.brlcloud.com/wn/search-activities
 you should be able to see and click on these hastags and go to these problems.
----------------------------
+
 elasticsearch using WN-PT following http://javaaswin.blogspot.com.br/2014/02/elasticsearch-with-wordnet.html
 could be used backwards to help found out what's missing from OWN-PT?
 -----------------------------
+4. Corpora in English:
+https://corpus.byu.edu/corpora.asp
+Should try their "virtual corpora" for specific domains/subjects.
+they have cleaned up wikipedia https://www.corpusdata.org/wikipedia.asp
