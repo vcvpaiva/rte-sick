@@ -1,0 +1,86 @@
+My ideas (for a Brazilian History glossary) in january 2015
+
+1. To do a projection to Brazilian history after 1930 of
+  MENTA. message from 1/24/15.
+
+  The biggest gain of MENTA is that it uses Gerard's amazing
+  algorithms to disambiguate entities in several languages so, for
+  instance I just checked "descoberta do Brasil" which worked
+  beautifully
+  http://www.lexvo.org/uwn/entity/e/fr/D%C3%A9couverte%20du%20Br%C3%A9sil
+  as did Independência do Brasil e/Brazilian Declaration of
+  Independence but as you can see if you follow the links the top one
+  comes via French and the bottom one via English, even if both have
+  texts in Portuguese where the glosses are just perfect for thesaurus
+  i.e.
+
+
+  My suggestion is use the 1000 entries of the DHBB that are not
+  biographies as query searches in MENTA and then look at the named
+  entities on those. 
+  (more recently I discovered that I can simply use the book on Historia do Brasil suggested by wikipedia)
+
+
+  Create a new corpus and a thesaurus consisting of these entries,
+  keyed into an RDF store, as a helpful companion to the DHBB.  We
+  then would have to read the whole thing and check that it's really
+  all sensible (this would be a good test for Gerard's work
+  too). since there are several of us this shouldn't be too much work.
+
+--------------------
+
+2.  A gente download a wikipedia em portugues, e usa os titulos das
+  entradas do DHBB (7.500) como search queries pra
+  wikipedia. coleciona todos os artigos que aparecerem com esses
+  titulo e escolhe o primeiro paragrafo como sumario.
+
+  numa segunda etapa a gente passa esse novo corpo pelo Freeling and
+  faz o mesmo trabalho que a gente fez pro DHandES de olhar as coisas
+  que aparecem mais e usamos as entidades mais frequentes pra fazer
+  uma outra busca na wikipedia. nessa segunda etapa devem aparecer
+  entradas da wikipedia sobre Minas Gerais, Ipiranga, "Palacio do
+  Catete" etc que nao teem (eu presumo) entradas proprias no DHBB.
+
+  desse jeito a gente constroi um tesauro automatico de historia do
+  Brasil que precisa ser chequado por gente de verdade. dai a gente
+  le e verifica.  
+
+  vcs conhecem algum "limpador de wikimedia" que transforme o dump da
+  Wikipedia em .txt?
+  
+---------------------------
+3. at that stage I thought:
+
+  But I think that simply getting the DHBB again through Freeling
+  (without being able to use NE lists) won't do us much good.  It will
+  clean up things a little (we won't have the few female historians
+  counting as figures of Brazilian history) and we might be able to
+  get some better temporal information, but without better
+  disambiguation of entities, it won't be a big improvement. 
+  
+Alexandre thought this was our step number 1, and he and Fabricio did it a while back.
+The result is online, but not officially so and officially *not* to be used.
+so a new corpus is necessary.
+
+-----------------------
+
+4.  wikidata (que e' ser o substituto do Freebase) tem um template pra biografias.
+  titulo proposto: Analyzing a Biographical Dictionary (or Building a
+  Thesaurus from a Biographical Dictionary)
+
+ (lrec 2014): “BiographyNet: Methodological
+  issues when NLP supports historical research”:
+  http://www.lrec-conf.org/proceedings/lrec2014/pdf/1103_Paper.pdf
+
+ http://www.opener-project.eu/getting-started/: worth checking out? 
+
+-----------------------
+
+5.  Dario tinha uma versao fazendo NER usando Stanford e uma usando
+  so' o FreeLing, mas nao sei se temos uma copia do texto marcado
+  dessas duas formas no dropbox. seria realmente bom tem uma versao do
+  raw DHBB usando o OpenNER, mas so' com as duas primeiras ainda temos
+  chance de escrever alguma coisa legal se usarmos o program que a
+  Claudia sugeriu de concordancias. 
+
+
