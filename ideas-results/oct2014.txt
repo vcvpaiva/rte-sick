@@ -1,0 +1,36 @@
+
+Cleaning up my inbox I realized that we never went back to my idea of
+using the sketch of domain ontology in
+
+http://sigmakee.cvs.sourceforge.net/viewvc/sigmakee/KBs/development/Biography.kif?view=log
+
+to help structure the DHBB. I think Adam Pease and Michal did quite a bit
+more work on professions, need to check iwth them.
+
+What's the state of play there?
+
+the proceedings of the workshop that I wanted to send something then
+are now online at http://ceur-ws.org/Vol-1399/
+and there's at least one paper that is interesting.
+
+so my suggestion in Oct 2014, if you don't remember (and I didn't
+either) was:
+
+We download the wikipedia in Portuguese, and use the titles of DHBB
+entries (7,500 ) as search queries to wikipedia .
+collect all the items that appear with those single titles and take the
+first paragraph as summary (wikipedia's writing should work for this heuristic function,
+except that sometimes it does not work ... ) . as a second step we pass
+this new corpus by Freeling and do the same job we did for the
+DHandES paper of looking at things that appear more frequently and use
+the entities that
+show up to make another search on wikipedia .
+
+in this second step there should appear wikipedia entries for Minas
+Gerais, Ipiranga, "Palacio do Catete " etc that do not have (I presume) their own
+entries in DHBB . this way we build a Portuguese history automatic
+thesaurus that only needs to be hand checked by real people. 
+----------
+
+More recently I have given up on the idea of using the DHBB data, but I am still interested in
+producing a glossary for Brazilian History automatically from MENTA or Wikipedia.
