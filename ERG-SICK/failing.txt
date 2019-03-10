@@ -1,0 +1,72 @@
+SKIP: A animal is grazing in a field
+SKIP: A black animal is approaching a golden dog on pebbly beach
+SKIP: A black dog is approaching a golden dog on pebbly beach
+SKIP: A black dog is jumping from n hay ball to another hay ball
+SKIP: A blonds girl is surfing
+SKIP: A boy in blue are sliding down a green slide
+SKIP: A boy in blue shirt is looking at his hand near a stack of blocks on table
+SKIP: A boy is wearing all black and is sliding down a blow up slide
+SKIP: A boy is wearing all black and is sliding down a blow up yellow slide
+SKIP: A cyclist is biking in a snowy forest at day
+SKIP: A daughter is being pushed by her father on a go-kart and another girl is watching
+SKIP: A dog is jumping on a trees in the shades
+SKIP: A father is pulling his daughter on a go-kart and another girl is looking away
+SKIP: A father is pushing his daughter on a go-kart and another girl is watching
+SKIP: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair
+SKIP: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a woman with grey hair
+SKIP: A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of an old man with grey hair
+SKIP: A girl is pushing a go-kart and a daughter is watching her father
+SKIP: A girl is wearing all black and is sliding down a blow up yellow slide
+SKIP: A hole is being burrowed by the badger
+SKIP: A hurdle is being leapt by a horse that has a rider on its back
+SKIP: A large dog and a small dog is standing on the kitchen counter and investigate
+SKIP: A man in a elegant dress is being surrounded by photographers
+SKIP: A man in blue is riding a animal on a dirt road
+SKIP: A man is drawing on a digital dry erase board
+SKIP: A man is not drawing on a digital dry erase board
+SKIP: A man is packing away the guitar
+SKIP: A man is sitting on a boat in font of the sunset, near a flag
+SKIP: A nearby throng of people are kissing two by two
+SKIP: A person is jotting something with a pencil
+SKIP: A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man
+SKIP: A policeman is getting off of a motorcycle
+SKIP: A prey is quickly running behind the cheetah
+SKIP: A topless woman is being smeared with a brown substance and a blurry crowd is in the background
+SKIP: A topless woman is being smeared with brown substance and a nobody is in the background
+SKIP: A white dog is approaching a golden dog on pebbly beach
+SKIP: A woman in blue shirt is looking at her hand near a stack of blocks on table
+SKIP: A woman is being smeared with brown substance and a blurry crowd is in the background
+SKIP: A woman is penciling on eyeshadow
+SKIP: A woman is using a pencil for eyes and is applying eye liner to her eyelid
+SKIP: A woman is using an eye pencil and is applying eye liner to her eyelid
+SKIP: A woman is wearing paint and costume pieces and is riding a bike on a empty street
+SKIP: A yellow flower is being clung to by a bee
+SKIP: A young girl in swimming suite is jumping on the beach
+SKIP: An woman that is old is shaking hands with a man
+SKIP: Broccoli are being cut by a woman
+SKIP: Four dogs are playing in a area covered by grass
+SKIP: People are clustered around a bonfire at morning
+SKIP: Some people and vehicles are on a almost empty street
+SKIP: The ball is being dunked by a man with a jersey at a basketball game
+SKIP: The boy in blue shirt is looking at his hand near the stack of blocks on table
+SKIP: The girl has red hair and eyebrows, several piercings in a ear and a drawing on the back
+SKIP: The girl has red hair and eyebrows, several piercings in a ear and a tattoo on the back
+SKIP: The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back
+SKIP: The lady is penciling on eyeshadow
+SKIP: The man is cooking slices of potato
+SKIP: The man is not adding seasoning to the/some water in a bowl
+SKIP: The orange colored dices are being cast by a cook to win the pepper
+SKIP: The players is maneuvering for the ball
+SKIP: The players is maneuvering for the basket ball
+SKIP: The players is maneuvering for the soccer ball
+SKIP: The tail of an animal is being chasing by a dog in the grass
+SKIP: The woman is not penciling on eyeshadow
+SKIP: The woman is penciling on eyeshadow
+SKIP: There is no man is pushing the buttons of a microwave
+SKIP: There is no white and brown dog pacing with through the water difficulty
+SKIP: Three small cats is sniffing at something
+SKIP: Two boy are playing on a trampoline
+SKIP: Two girl with dogs are walking on a forest path
+SKIP: Two men and a girl in behind of a wood panel wall are posing with funny faces
+SKIP: Two men are looking out and one is holding a spyglass
+SKIP: Two young girl are looking up at the camera and one is sticking out his tongue
