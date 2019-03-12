@@ -1,0 +1,22 @@
+SKIP: A daughter is being pushed by her father on a go-kart and another girl is watching
+SKIP: A father is pulling his daughter on a go-kart and another girl is looking away
+SKIP: A father is pushing his daughter on a go-kart and another girl is watching
+SKIP: A girl is pushing a go-kart and a daughter is watching her father
+SKIP: A hole is being burrowed by the badger
+SKIP: A hurdle is being leapt by a horse that has a rider on its back
+SKIP: A man is drawing on a digital dry erase board
+SKIP: A man is not drawing on a digital dry erase board
+SKIP: A man is packing away the guitar
+SKIP: A nearby throng of people are kissing two by two
+SKIP: A person is jotting something with a pencil
+SKIP: A policeman is getting off of a motorcycle
+SKIP: A prey is quickly running behind the cheetah
+SKIP: A yellow flower is being clung to by a bee
+SKIP: An woman that is old is shaking hands with a man
+SKIP: The ball is being dunked by a man with a jersey at a basketball game
+SKIP: The lady is penciling on eyeshadow
+SKIP: The orange colored dices are being cast by a cook to win the pepper
+SKIP: The woman is not penciling on eyeshadow
+SKIP: The woman is penciling on eyeshadow
+SKIP: Two men are looking out and one is holding a spyglass
+SKIP: The ball is being dunked by a man with a jersey at a basketball game
