@@ -12,7 +12,6 @@ SKIP: A person is jotting something with a pencil
 SKIP: A policeman is getting off of a motorcycle
 SKIP: A prey is quickly running behind the cheetah
 SKIP: A yellow flower is being clung to by a bee
-SKIP: An woman that is old is shaking hands with a man
 SKIP: The ball is being dunked by a man with a jersey at a basketball game
 SKIP: The lady is penciling on eyeshadow
 SKIP: The orange colored dices are being cast by a cook to win the pepper
