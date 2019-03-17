@@ -6,11 +6,11 @@ sort predicates.out | uniq -c  | sort -nr | head -200
 | 8399 | _a_q                 | a           | q   |
 | 4752 | udef_q               | NIL         | q   |
 | 3313 | _the_q               | the         | q   |
-| 1736 | _man_n_1             | man         | n   |
+| 1736 | _man_n_1             | man         | n   |  VERSUS 1743
 | 1415 | _and_c               | and         | c   |
 | 1215 | compound             | NIL         | NIL |
-|  934 | _woman_n_1           | woman       | n   |
-|  884 | _dog_n_1             | dog         | n   |
+|  934 | _woman_n_1           | woman       | n   |  VERSUS 939
+|  884 | _dog_n_1             | dog         | n   |  SAME 884!!!
 |  741 | _on_p_state          | on          | p   |
 |  719 | _in_p_state          | in          | p   |
 |  690 | _play_v_1            | play        | v   |
@@ -21,10 +21,10 @@ sort predicates.out | uniq -c  | sort -nr | head -200
 |  476 | card                 | 2           | NIL |
 |  432 | neg                  | NIL         | NIL |
 |  420 | pronoun_q            | NIL         | q   |
-|  416 | _boy_n_1             | boy         | n   |
-|  398 | _person_n_1          | person      | n   |
+|  416 | _boy_n_1             | boy         | n   |  VERSUS 417
+|  398 | _person_n_1          | person      | n   |  VERSUS 399
 |  378 | _on_p_loc            | on          | p   |
-|  372 | _girl_n_1            | girl        | n   |
+|  372 | _girl_n_1            | girl        | n   |  VERSUS 376
 |  371 | pron                 | NIL         | NIL |
 |  362 | _some_q              | some        | q   |
 |  357 | _stand_v_1           | stand       | v   |
@@ -34,45 +34,45 @@ sort predicates.out | uniq -c  | sort -nr | head -200
 |  311 | poss                 | NIL         | NIL |
 |  311 | def_explicit_q       | NIL         | q   |
 |  310 | _of_p                | of          | p   |
-|  305 | _people_n_of         | people      | n   |
-|  285 | _water_n_1           | water       | n   |
+|  305 | _people_n_of         | people      | n   |  VERSUS 309
+|  285 | _water_n_1           | water       | n   |  SAME 285!
 |  269 | _run_v_1             | run         | v   |
 |  266 | _sit_v_1             | sit         | v   |
 |  265 | _ride_v_1            | ride        | v   |
-|  250 | _child_n_1           | child       | n   |
+|  250 | _child_n_1           | child       | n   |  SAME 250!!
 |  249 | _jump_v_1            | jump        | v   |
 |  230 | _brown_a_1           | brown       | a   |
 |  229 | _young_a_1           | young       | a   |
 |  225 | _walk_v_1            | walk        | v   |
 |  224 | nominalization       | NIL         | NIL |
-|  201 | _ball_n_of           | ball        | n   |
-|  190 | _grass_n_1           | grass       | n   |
+|  201 | _ball_n_of           | ball        | n   |  VERSUS 200
+|  190 | _grass_n_1           | grass       | n   |  SAME 190!
 |  185 | _red_a_1             | red         | a   |
 |  184 | _at_p_loc            | at          | p   |
 |  179 | _blue_a_1            | blue        | a   |
-|  172 | _guitar_n_1          | guitar      | n   |
+|  172 | _guitar_n_1          | guitar      | n   |  VERSUS 173! (one sentence with guitar not parsing!)
 |  153 | _slice_v_1           | slice       | v   |
 |  146 | person               | NIL         | NIL |
-|  143 | _shirt_n_1           | shirt       | n   |
-|  137 | _bike_n_1            | bike        | n   |
+|  143 | _shirt_n_1           | shirt       | n   |  VERSUS 144
+|  137 | _bike_n_1            | bike        | n   |  SAME 137!!
 |  136 | card                 | 1           | NIL |
 |  136 | _little_a_1          | little      | a   |
 |  130 | _green_a_2           | green       | a   |
 |  128 | _cut_v_1             | cut         | v   |
 |  127 | _small_a_1           | small       | a   |
 |  126 | _hold_v_1            | hold        | v   |
-|  123 | _group_n_of          | group       | n   |
-|  121 | _cat_n_1             | cat         | n   |
+|  123 | _group_n_of          | group       | n   |  SAME 123!
+|  121 | _cat_n_1             | cat         | n   |  SAME 121!
 |  120 | def_implicit_q       | NIL         | q   |
 |  117 | _dance_v_1           | dance       | v   |
 |  115 | _for_p               | for         | p   |
-|  110 | _kid_n_1             | kid         | n   |
+|  110 | _kid_n_1             | kid         | n   |  SAME 110!
 |  105 | place_n              | NIL         | n   |
 |  105 | loc_nonsp            | NIL         | NIL |
 |  105 | _yellow_a_1          | yellow      | a   |
 |  104 | _snow_n_1            | snow        | n   |
-|  104 | _horse_n_1           | horse       | n   |
-|  102 | _car_n_1             | car         | n   |
+|  104 | _horse_n_1           | horse       | n   |  VERSUS 105
+|  102 | _car_n_1             | car         | n   |  SAME 102!
 |  101 | _into_p_state        | into        | p   |
 |  101 | _by_p_state          | by          | p   |
 |  100 | _through_p_dir       | through     | p   |
@@ -80,110 +80,110 @@ sort predicates.out | uniq -c  | sort -nr | head -200
 |   99 | _eat_v_1             | eat         | v   |
 |   98 | _in+front+of_p_state | in+front+of | p   |
 |   94 | card                 | 3           | NIL |
-|   94 | _beach_n_1           | beach       | n   |
-|   93 | _hat_n_1             | hat         | n   |
-|   91 | _field_n_of          | field       | n   |
+|   94 | _beach_n_1           | beach       | n   |  SAME 94!
+|   93 | _hat_n_1             | hat         | n   |  SAME 93!
+|   91 | _field_n_of          | field       | n   |  SAME 91!
 |   89 | _from_p_state        | from        | p   |
-|   87 | _near_p_state        | near        | p   |
-|   85 | _rock_n_1            | rock        | n   |
+|   87 | _near_p_state        | near        | p   |  
+|   85 | _rock_n_1            | rock        | n   |   SAME 85!
 |   84 | _climb_v_1           | climb       | v   |
-|   83 | _camera_n_1          | camera      | n   |
+|   83 | _camera_n_1          | camera      | n   |  SAME 83!
 |   82 | proper_q             | NIL         | q   |
-|   81 | _air_n_1             | air         | n   |
+|   81 | _air_n_1             | air         | n   |  VERSUS 79!
 |   80 | _do_v_1              | do          | v   |
 |   78 | _look_v_at           | look        | v   |
-|   77 | _tree_n_of           | tree        | n   |
+|   77 | _tree_n_of           | tree        | n   |   SAME 77!
 |   76 | _down_p_state        | down        | p   |
 |   76 | _bowl_n_1            | bowl        | n   |
-|   75 | _player_n_of         | player      | n   |
-|   73 | _lady_n_1            | lady        | n   |
-|   72 | _street_n_1          | street      | n   |
+|   75 | _player_n_of         | player      | n   |   VERSUS 76
+|   73 | _lady_n_1            | lady        | n   |   VERSUS 74
+|   72 | _street_n_1          | street      | n   |   SAME 72!
 |   72 | _into_p              | into        | p   |
-|   71 | _toy_n_1             | toy         | n   |
-|   71 | _potato_n_1          | potato      | n   |
-|   70 | _wall_n_of           | wall        | n   |
-|   69 | _soccer_n_1          | soccer      | n   |
-|   69 | _piece_n_of-2        | piece       | n   |
+|   71 | _toy_n_1             | toy         | n   |   SAME 71!
+|   71 | _potato_n_1          | potato      | n   |   SAME 71!
+|   70 | _wall_n_of           | wall        | n   |   VERSUS 74
+|   69 | _soccer_n_1          | soccer      | n   |   VERSUS 70
+|   69 | _piece_n_of-2        | piece       | n   |   VERSUS 70
 |   69 | _another_q           | another     | q   |
-|   68 | _road_n_1            | road        | n   |
-|   68 | _onion_n_1           | onion       | n   |
-|   67 | _egg_n_1             | egg         | n   |
+|   68 | _road_n_1            | road        | n   |   SAME 68!!
+|   68 | _onion_n_1           | onion       | n   |   SAME 68!!
+|   67 | _egg_n_1             | egg         | n   |   SAME 67!!
 |   64 | _lie_v_2             | lie         | v   |
-|   64 | _hand_n_1            | hand        | n   |
-|   64 | _dirt_n_1            | dirt        | n   |
-|   63 | _mouth_n_1           | mouth       | n   |
-|   63 | _animal_n_1          | animal      | n   |
+|   64 | _hand_n_1            | hand        | n   |   VERSUS 66
+|   64 | _dirt_n_1            | dirt        | n   |   SAME 64!!
+|   63 | _mouth_n_1           | mouth       | n   |   SAME 63!!
+|   63 | _animal_n_1          | animal      | n   |   SAME 63!!
 |   61 | _park_n_1            | park        | n   |
-|   61 | _motorcycle_n_1      | motorcycle  | n   |
-|   60 | _into_p_dir          | into        | p   |
-|   60 | _baby_n_1            | baby        | n   |
+|   61 | _motorcycle_n_1      | motorcycle  | n   |   VERSUS 62
+|   60 | _into_p_dir          | into        | p   |   
+|   60 | _baby_n_1            | baby        | n   |   SAME 60!!
 |   59 | _talk_v_about        | talk        | v   |
 |   59 | _have_v_1            | have        | v   |
 |   58 | _over_p_state        | over        | p   |
-|   58 | _bicycle_n_1         | bicycle     | n   |
+|   58 | _bicycle_n_1         | bicycle     | n   |   SAME 58!!
 |   57 | _perform_v_1         | perform     | v   |
-|   57 | _hair_n_1            | hair        | n   |
+|   57 | _hair_n_1            | hair        | n   |   SAME 57!!
 |   57 | _be_v_id             | be          | v   |
 |   56 | generic_entity       | NIL         | NIL |
 |   56 | _through_p_state     | through     | p   |
-|   56 | _rope_n_1            | rope        | n   |
-|   55 | _trick_n_1           | trick       | n   |
-|   55 | _piano_n_1           | piano       | n   |
-|   55 | _jacket_n_1          | jacket      | n   |
+|   56 | _rope_n_1            | rope        | n   |   SAME 56!!
+|   55 | _trick_n_1           | trick       | n   |   SAME 55!!
+|   55 | _piano_n_1           | piano       | n   |   SAME 55!!
+|   55 | _jacket_n_1          | jacket      | n   |   SAME 55!!
 |   53 | _pink_a_1            | pink        | a   |
 |   53 | _big_a_1             | big         | a   |
 |   52 | _watch_v_1           | watch       | v   |
 |   52 | _swim_v_1            | swim        | v   |
 |   51 | _outside_p           | outside     | p   |
-|   51 | _flute_n_1           | flute       | n   |
-|   51 | _coat_n_of           | coat        | n   |
+|   51 | _flute_n_1           | flute       | n   |  VERSUS 54
+|   51 | _coat_n_of           | coat        | n   |  SAME 51!!
 |   51 | _carry_v_1           | carry       | v   |
-|   50 | _pool_n_of           | pool        | n   |
+|   50 | _pool_n_of           | pool        | n   |  SAME 50!!
 |   49 | implicit_conj        | NIL         | NIL |
-|   48 | _sand_n_1            | sand        | n   |
-|   48 | _football_n_1        | football    | n   |
-|   47 | _meat_n_1            | meat        | n   |
+|   48 | _sand_n_1            | sand        | n   |  SAME 48!!
+|   48 | _football_n_1        | football    | n   |  SAME 48!!
+|   47 | _meat_n_1            | meat        | n   |  SAME 47!!
 |   46 | _purple_a_1          | purple      | a   |
 |   46 | _next+to_p_state     | next+to     | p   |
 |   45 | _uniform_n_1         | uniform     | n   |
 |   45 | _pour_v_1            | pour        | v   |
 |   45 | _make_v_1            | make        | v   |
-|   45 | _hill_n_1            | hill        | n   |
-|   43 | _tennis_n_1          | tennis      | n   |
-|   43 | _ground_n_1          | ground      | n   |
-|   43 | _face_n_1            | face        | n   |
+|   45 | _hill_n_1            | hill        | n   | SAME 45!!
+|   43 | _tennis_n_1          | tennis      | n   | SAME 43!!
+|   43 | _ground_n_1          | ground      | n   | SAME 43!!
+|   43 | _face_n_1            | face        | n   | VERSUS 40
 |   43 | _dress_v_in          | dress       | v   |
 |   43 | _chase_v_1           | chase       | v   |
 |   42 | card                 | 4           | NIL |
-|   42 | _table_n_1           | table       | n   |
-|   42 | _pot_n_1             | pot         | n   |
+|   42 | _table_n_1           | table       | n   | VERSUS 44
+|   42 | _pot_n_1             | pot         | n   | SAME 42!!
 |   42 | _grey_a_1            | grey        | a   |
 |   42 | _down_p_dir          | down        | p   |
-|   41 | _top_n_1             | top         | n   |
+|   41 | _top_n_1             | top         | n   | SAME 41!!
 |   41 | _sing_v_1            | sing        | v   |
 |   41 | _near_p              | near        | p   |
-|   41 | _monkey_n_1          | monkey      | n   |
+|   41 | _monkey_n_1          | monkey      | n   | SAME 41!!
 |   41 | _look_v_1            | look        | v   |
 |   40 | _race_v_1            | race        | v   |
 |   40 | _put_v_1             | put         | v   |
-|   40 | _ocean_n_1           | ocean       | n   |
+|   40 | _ocean_n_1           | ocean       | n   | SAME 40!!
 |   40 | _drink_v_1           | drink       | v   |
 |   39 | _fight_v_1           | fight       | v   |
-|   38 | _track_n_1           | track       | n   |
+|   38 | _track_n_1           | track       | n   | SAME 38!!
 |   38 | _race_n_of-for       | race        | n   |
 |   38 | _kick_v_1            | kick        | v   |
 |   38 | _crowd_n_of          | crowd       | n   |
 |   37 | _take_v_1            | take        | v   |
 |   37 | _several_a_1         | several     | a   |
 |   37 | _make_v_of           | make        | v   |
-|   37 | _food_n_1            | food        | n   |
-|   37 | _fish_n_1            | fish        | n   |
-|   37 | _area_n_of           | area        | n   |
+|   37 | _food_n_1            | food        | n   | SAME 37!!
+|   37 | _fish_n_1            | fish        | n   | VERSUS 38
+|   37 | _area_n_of           | area        | n   | SAME 37!!
 |   36 | idiom_q_i            | NIL         | q   |
 |   36 | _to_p                | to          | p   |
-|   36 | _sidewalk_n_1        | sidewalk    | n   |
-|   36 | _oil_n_1             | oil         | n   |
-|   36 | _keyboard_n_1        | keyboard    | n   |
+|   36 | _sidewalk_n_1        | sidewalk    | n   | SAME 36!!
+|   36 | _oil_n_1             | oil         | n   | SAME 36!!
+|   36 | _keyboard_n_1        | keyboard    | n   | SAME 36!!
 |   36 | _drive_v_1           | drive       | v   |
 |   36 | _building_n_1        | building    | n   |
 |   35 | _knife_n_1           | knife       | n   |
